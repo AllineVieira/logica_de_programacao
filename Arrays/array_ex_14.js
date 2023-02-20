@@ -1,0 +1,1 @@
+//Leia um vetor de 50 posições e o compacte, ou seja, elimine as posições com valor zero avançando uma posição, com os com os valores subseqüentes do vetor. Dessa forma todos “zeros” devem ficar para as posições finais do vetor.
